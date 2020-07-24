@@ -21,4 +21,4 @@ Atlas displays only the regions that support M0 Free Tier and M2/M5 Shared tier 
 - Copy connection string into index.js and store it as a variable
 
 
-start server: node src/index.js
+start server: npm run dev
